@@ -22,32 +22,7 @@
     <img height="30" align="center" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/>
 
   </div>
-##
-<h3 align="left">📫 Entre em contato comigo:</h3>
-<p align="left">
 
-  <!-- LinkedIn -->
- <a href="https://www.linkedin.com/in/vladimir-aires-freire" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=flat&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" />
-</a>
-
-
-  <!-- Gmail -->
-  <a href="mailto:vlad.aires05@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-ffffff?style=flat&logo=gmail&logoColor=white&labelColor=0d1117" alt="Gmail">
-  </a>
-
-  <!-- Facebook -->
-  <a href="https://facebook.com/vladimir-aires" target="_blank" style="text-decoration: none">
-    <img src="https://img.shields.io/badge/-Facebook-ffffff?style=flat&logo=facebook&logoColor=white&labelColor=0d1117" alt="Facebook">
-  </a>
-
-  <!-- WhatsApp -->
-  <a href="https://wa.me/5561995994763" target="_blank" style="text-decoration: none">
-    <img src="https://img.shields.io/badge/-WhatsApp-ffffff?style=flat&logo=whatsapp&logoColor=white&labelColor=0d1117" alt="WhatsApp">
-  </a>
-
-</p>
 
 
 
