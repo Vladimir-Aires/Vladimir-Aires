@@ -6,8 +6,12 @@
 - 🌱 Estudando React/React native
 
 
+
+
+
   <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vladimir-aires&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&locale=pt-br&border_color=FFD700&bg_color=0d1117&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700"/>
+  
+
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladimir-aires&layout=compact&langs_count=16&theme=gruvbox&locale=pt-br&border_color=FFD700&bg_color=0d1117&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700" align="right"/>
   </div>
 
